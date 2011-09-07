@@ -4,7 +4,7 @@
   <title>kaleidopunk</title>
   <link href="http://kaleidopunk.heroku.com/atom.xml" rel="self"/>
   <link href="http://kaleidopunk.heroku.com/"/>
-  <updated>2011-09-07T11:22:48+01:00</updated>
+  <updated>2011-09-07T11:26:55+01:00</updated>
   <id>http://kaleidopunk.heroku.com/</id>
   <author>
     <name>buddhamagnet</name>
@@ -14,9 +14,9 @@
   
   <entry>
     <title>Attack the cortex</title>
-    <link href="http://kaleidopunk.heroku.com/blog/2011/09/07/hello-world/"/>
+    <link href="http://kaleidopunk.heroku.com/blog/2011/09/07/attack-the-cortex/"/>
     <updated>2011-09-07T11:02:00+01:00</updated>
-    <id>http://kaleidopunk.heroku.com/blog/2011/09/07/hello-world</id>
+    <id>http://kaleidopunk.heroku.com/blog/2011/09/07/attack-the-cortex</id>
     <content type="html">&lt;p&gt;So looks like I finally found a blogging engine and format I like. I've used all the popular
 hosted solutions over the years, from Wordpress to Tumblr and Posterous, and even though I've
 seen the benefits and convenience of all three, at heart I'm a hacker and wanted a lightweight
