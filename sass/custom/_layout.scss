@@ -1,5 +1,10 @@
-// Here you can easily change your sites's layout.
-// To give it a try, uncomment some of the lines below, make changes, rebuild your blog, and see how it works.
+#headertext {
+  float: left;
+}
+
+.fr {
+  float: right;
+}
 
 //$max-width: 1350px;
 //$indented-lists: true;
