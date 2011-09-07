@@ -4,7 +4,7 @@
   <title>kaleidopunk</title>
   <link href="http://kaleidopunk.heroku.com/atom.xml" rel="self"/>
   <link href="http://kaleidopunk.heroku.com/"/>
-  <updated>2011-09-05T12:35:44+01:00</updated>
+  <updated>2011-09-07T11:22:48+01:00</updated>
   <id>http://kaleidopunk.heroku.com/</id>
   <author>
     <name>buddhamagnet</name>
@@ -13,11 +13,28 @@
 
   
   <entry>
-    <title>Hello man</title>
-    <link href="http://kaleidopunk.heroku.com/blog/2011/09/05/hello-world/"/>
-    <updated>2011-09-05T12:18:00+01:00</updated>
-    <id>http://kaleidopunk.heroku.com/blog/2011/09/05/hello-world</id>
-    <content type="html">
+    <title>Attack the cortex</title>
+    <link href="http://kaleidopunk.heroku.com/blog/2011/09/07/hello-world/"/>
+    <updated>2011-09-07T11:02:00+01:00</updated>
+    <id>http://kaleidopunk.heroku.com/blog/2011/09/07/hello-world</id>
+    <content type="html">&lt;p&gt;So looks like I finally found a blogging engine and format I like. I've used all the popular
+hosted solutions over the years, from Wordpress to Tumblr and Posterous, and even though I've
+seen the benefits and convenience of all three, at heart I'm a hacker and wanted a lightweight
+solution totally under my control. I toyed with a combination of open source technologies before
+settling on this - the &lt;a href=&quot;http://octopress.org&quot;&gt;Octopress&lt;/a&gt; framework for the &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt; blogging engine. Written in &lt;a href=&quot;http://ruby-lang.org&quot;&gt;Ruby&lt;/a&gt;,
+a Japanese programming language optimised for happiness and, as I've mentioned before, a language that attracts me for all the wrong reasons, technically speaking. I love the aesthetic, the vibe, and the impossibly hip culture. A computer programming language that attacks the literary cortex.&lt;/p&gt;
+
+&lt;p&gt;The blog is given wings by &lt;a href=&quot;http://gitscm.org&quot;&gt;git&lt;/a&gt;, a distributed version control system. For me
+this is a critical part of the machine. It means I can clone the blog, reproduce it anywhere
+and reanimate it if the current hosting platform (the spellbinding &lt;a href=&quot;http://heroku.com&quot;&gt;heroku&lt;/a&gt;) goes away.&lt;/p&gt;
+
+&lt;p&gt;This also means that contributions for now are handled in a rather geeky way. If you want to
+contribute, fork the blog on &lt;a href=&quot;https://github.com/buddhamagnet/kaleidopunk&quot;&gt;github&lt;/a&gt; and issue a
+pull request. Trust me, git is worth knowing for reasons far beyond geek. It gives your content legs.&lt;/p&gt;
+
+&lt;p&gt;So this is my blog in it's fourth or fifth mutation. A kaleidopunk manifesto. A place for me
+to explore books, words, hacker culture, stories and sounds. I promise I'll stop banging on about
+the technology for now.&lt;/p&gt;
 </content>
   </entry>
   

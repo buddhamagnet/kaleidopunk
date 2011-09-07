@@ -55,7 +55,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: buddhamagnet
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
@@ -71,11 +71,11 @@ pinboard_user:
 pinboard_count: 3
 
 # Delicious
-delicious_user:
+delicious_user: buddhamagnet
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: buddhamagnet
 
 # Google Analytics
 google_analytics_tracking_id:
