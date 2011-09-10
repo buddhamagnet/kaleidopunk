@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title></title>
+  <link href="/atom.xml" rel="self"/>
+  <link href="/"/>
+  <updated>2011-09-10T18:42:11+01:00</updated>
+  <id>/</id>
+  <author>
+    <name></name>
+    
+  </author>
+
+  
+  <entry>
+    <title>Cave projections</title>
+    <link href="/source/2011/09/10/cave-projections.html"/>
+    <updated>2011-09-10T18:31:00+01:00</updated>
+    <id>/source/2011/09/10/cave-projections</id>
+    <content type="html">&lt;p&gt;I returned from a family trip to Spain last week and as I bleared my way through Gatwick at 2 a.m. I bumped into Ian Hislop. It&amp;#8217;s always a little hallucinogenic seeing a well-known face in the flesh, even more so at that kind of hour. It messes with your face recognition wetware. Ian was standing, looking a little nervous, listening to his driver drone on about the varying degrees of fascism exhibited by police forces across the land.&lt;/p&gt;
+
+&lt;p&gt;The encounter had another effect on me. I am growing increasingly media-sick, tired of sensationalism, bad reporting, rampant corruption and crass commercialism and the relegation of many forms of journalism and analysis to branches of the entertainment industry. And it struck me that there is a cure. Not to turn everything off and disconnect. But just be aware that media, if not arbiters of truth, are illusory, static. Watching this nervous and tired man in the skin, contrasting it with the images and sounds of biting satire and wit I have observed through TV, I realise that I put far too much store in modern media and the cave projections it throws up in my head.&lt;/p&gt;
+
+&lt;p&gt;It&amp;#8217;s dew on grass, bubbles and mind pop. All I really need to do is listen deep to the workings of my heart. The only booming voice I should heed is that of the word demon that drives me. If I care for people, connect hard and produce human product with use and value every day, all is well.&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <title>Books are now in your hands</title>
+    <link href="/source/2011/09/07/books-are-now-in-your-hands.html"/>
+    <updated>2011-09-07T15:33:00+01:00</updated>
+    <id>/source/2011/09/07/books-are-now-in-your-hands</id>
+    <content type="html">&lt;p&gt;I have had the good fortune to provide coding hands on and off for the last few weeks for &lt;a href='http://unbound.co.uk'&gt;unbound&lt;/a&gt;, a wonderful idea, kind of like kickstarter for books but with so much more going on from the initial book pitch right up to printing, binding and delivery. Great people with a great vision. On Monday September 12th I&amp;#8217;ll be popping along to their 5 X 15 event at &lt;a href='http://www.tabernaclew11.com'&gt;The Tabernacle&lt;/a&gt;, which should be a wordy hoot.&lt;/p&gt;
+&lt;iframe frameborder='0' height='345' src='http://www.youtube.com/embed/de9CQA7G6vk' width='560' /&gt;</content>
+  </entry>
+  
+  <entry>
+    <title>What makes a perfect weekend</title>
+    <link href="/source/2011/09/07/perfect-weekend.html"/>
+    <updated>2011-09-07T14:21:00+01:00</updated>
+    <id>/source/2011/09/07/perfect-weekend</id>
+    <content type="html">&lt;p&gt;A wonderfully minimal video from my friend &lt;a href='http://twitter.com/documentally'&gt;documentally&lt;/a&gt; with audio magic from &lt;a href='http://twitter.com/mcfontaine'&gt;mcfontaine&lt;/a&gt;. &lt;iframe frameborder='0' height='225' src='http://player.vimeo.com/video/28599563?title=0&amp;amp;byline=0&amp;amp;portrait=0' width='400' /&gt;&lt;/p&gt;</content>
+  </entry>
+  
+  <entry>
+    <title>Attack the cortex</title>
+    <link href="/source/2011/09/07/attack-the-cortex.html"/>
+    <updated>2011-09-07T11:02:00+01:00</updated>
+    <id>/source/2011/09/07/attack-the-cortex</id>
+    <content type="html">&lt;p&gt;So looks like I finally found a blogging engine and format I like. I&amp;#8217;ve used all the popular hosted solutions over the years, from Wordpress to Tumblr and Posterous, and even though I&amp;#8217;ve seen the benefits and convenience of all three, at heart I&amp;#8217;m a hacker and wanted a lightweight solution totally under my control. I toyed with a combination of open source technologies before settling on this - the &lt;a href='http://octopress.org'&gt;Octopress&lt;/a&gt; framework for the &lt;a href='https://github.com/mojombo/jekyll'&gt;Jekyll&lt;/a&gt; blogging engine. Written in &lt;a href='http://ruby-lang.org'&gt;Ruby&lt;/a&gt;, a Japanese programming language optimised for happiness and, as I&amp;#8217;ve mentioned before, a language that attracts me for all the wrong reasons, technically speaking. I love the aesthetic, the vibe, and the impossibly hip culture. A computer programming language that attacks the literary cortex.&lt;/p&gt;
+
+&lt;p&gt;The blog is given wings by &lt;a href='http://gitscm.org'&gt;git&lt;/a&gt;, a distributed version control system. For me this is a critical part of the machine. It means I can clone the blog, reproduce it anywhere and reanimate it if the current hosting platform (the spellbinding &lt;a href='http://heroku.com'&gt;heroku&lt;/a&gt;) goes away.&lt;/p&gt;
+
+&lt;p&gt;This also means that contributions for now are handled in a rather geeky way. If you want to contribute, fork the blog on &lt;a href='https://github.com/buddhamagnet/kaleidopunk'&gt;github&lt;/a&gt; and issue a pull request. Trust me, git is worth knowing for reasons far beyond geek. It gives your content legs.&lt;/p&gt;
+
+&lt;p&gt;So this is my blog in it&amp;#8217;s fourth or fifth mutation. A kaleidopunk manifesto. A place for me to explore books, words, hacker culture, stories and sounds. I promise I&amp;#8217;ll stop banging on about the technology for now.&lt;/p&gt;</content>
+  </entry>
+  
+</feed>
