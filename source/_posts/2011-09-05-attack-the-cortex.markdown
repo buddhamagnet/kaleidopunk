@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Attack the cortex"
+title: "Attack The cortex"
 date: 2011-09-07 11:02
 comments: true
 categories: [geek, git, blogging, ruby]
