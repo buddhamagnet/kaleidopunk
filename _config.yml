@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://kaleidopunk.com
-title: kaleidopunk
-subtitle: word engineering
-author: buddhamagnet
+title: word engineering 
+subtitle: 
+author: buddhamagnet 
 simple_search: http://google.com/search
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
@@ -50,6 +50,7 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 
 # Github repositories
 github_user: buddhamagnet
+github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
