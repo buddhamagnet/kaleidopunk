@@ -4,13 +4,25 @@
   <title>kaleidopunk</title>
   <link href="http://kaleidopunk.com/atom.xml" rel="self"/>
   <link href="http://kaleidopunk.com/"/>
-  <updated>2011-09-18T17:43:10+01:00</updated>
+  <updated>2011-09-19T15:28:25+01:00</updated>
   <id>http://kaleidopunk.com/</id>
   <author>
     <name>buddhamagnet</name>
     
   </author>
 
+  
+  <entry>
+    <title>Unbound TV</title>
+    <link href="http://kaleidopunk.com/blog/2011/09/19/unbound-tv/"/>
+    <updated>2011-09-19T15:26:00+01:00</updated>
+    <id>http://kaleidopunk.com/blog/2011/09/19/unbound-tv</id>
+    <content type="html">&lt;p&gt;Unbound were on Channel 4 news a few days ago!&lt;/p&gt;
+
+&lt;object id=&quot;flashObj&quot; width=&quot;370&quot; height=&quot;260&quot; classid=&quot;clsid:D27CDB6E-AE6D-11cf-96B8-444553540000&quot; codebase=&quot;http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,47,0&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://c.brightcove.com/services/viewer/federated_f9?isVid=1&quot; /&gt;&lt;param name=&quot;bgcolor&quot; value=&quot;#FFFFFF&quot; /&gt;&lt;param name=&quot;flashVars&quot; value=&quot;videoId=1160713641001&amp;playerID=69900095001&amp;playerKey=AQ~~,AAAAAEabvr4~,Wtd2HT-p_VhJQ6tgdykx3j23oh1YN-2U&amp;domain=embed&amp;dynamicStreaming=true&quot; /&gt;&lt;param name=&quot;base&quot; value=&quot;http://admin.brightcove.com&quot; /&gt;&lt;param name=&quot;seamlesstabbing&quot; value=&quot;false&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;swLiveConnect&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot; /&gt;&lt;embed src=&quot;http://c.brightcove.com/services/viewer/federated_f9?isVid=1&quot; bgcolor=&quot;#FFFFFF&quot; flashVars=&quot;videoId=1160713641001&amp;playerID=69900095001&amp;playerKey=AQ~~,AAAAAEabvr4~,Wtd2HT-p_VhJQ6tgdykx3j23oh1YN-2U&amp;domain=embed&amp;dynamicStreaming=true&quot; base=&quot;http://admin.brightcove.com&quot; name=&quot;flashObj&quot; width=&quot;370&quot; height=&quot;260&quot; seamlesstabbing=&quot;false&quot; type=&quot;application/x-shockwave-flash&quot; allowFullScreen=&quot;true&quot; swLiveConnect=&quot;true&quot; allowScriptAccess=&quot;always&quot; pluginspage=&quot;http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash&quot;&gt;&lt;/embed&gt;&lt;/object&gt;
+
+</content>
+  </entry>
   
   <entry>
     <title>Noon magics</title>
