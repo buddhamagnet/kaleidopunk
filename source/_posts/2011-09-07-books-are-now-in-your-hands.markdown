@@ -3,7 +3,7 @@ layout: post
 title: "Books are now in your hands"
 date: 2011-09-07 15:33
 comments: true
-categories: [books, lifehacking]
+categories: [unbound, word]
 ---
 
 I have had the good fortune to provide coding hands on and off for the last few weeks for [unbound](http://unbound.co.uk),

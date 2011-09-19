@@ -3,7 +3,7 @@ layout: post
 title: "Cave projections"
 date: 2011-09-10 18:31
 comments: true
-categories: [media, lifehacking]
+categories: [media, minimalism]
 ---
 
 I returned from a family trip to Spain last week and as I bleared my way through Gatwick

@@ -3,7 +3,7 @@ layout: post
 title: "Noon magics"
 date: 2011-09-18 17:30
 comments: true
-categories: [wordlab, writers, lifehacking]
+categories: [wordlab, word, writers]
 ---
 
 I love synchronicity. I've been planning a website devoted to word experiments for some time. 
