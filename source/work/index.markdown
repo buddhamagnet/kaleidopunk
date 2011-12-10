@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Work"
-date: 2011-12-10 11:33
+date: 2011-12-10 11:35
 comments: false
 sharing: false
 footer: true
@@ -72,4 +72,3 @@ BBC Music
 Moneywise
 The Economist
 National Geographic
-
