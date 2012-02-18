@@ -1,3 +1,4 @@
+https://secure.travis-ci.org/buddhamagnet/kaleidopunk.png
 ## What is Octopress?
 
 Octopress is [Jekyll](https://github.com/mojombo/jekyll) blogging at its finest.
