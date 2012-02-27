@@ -8,27 +8,24 @@ footer: true
 ---
 
 WORK
-Here it comes, a list of the things I have worked on or built recently:
+
+Her's a list of the things I have worked on or built recently:
 
 RUBY
 
-2011 Unbound
+2012 Rstatus
+
+Contributing back to another decentralised social web initiative.
+
+2011-2012 [Unbound](http://unbound.co.uk)
 
 Freelancing on Rails 3 build for UK startup revolving around online patronage of published and unpublished writers. The site has generated a fair amount of press.
 
 I have been involved in all aspects of the project from refactoring the original code provided by an agency, upgrading the application to Rails 3.1, introducing testing, advising on version control methodologies and development workflow, as well as day-to-day coding.
 
-2011 Diaspora
+2011-2012 [Diaspora](http://joindiaspora.org)
 
 Contributing back to this open source project when I can and now also hosting a pod.
-
-2011 Nanowrimo
-
-Assisting in the migration from Drupal to Rails for National Novel Writing Month 2011. Work involves dipping in to both technology stacks. 
-
-2011 Help Me Investigate
-
-Currently in the process of converting this Channel 4-funded journalism site from Rails 2.3.2 all the way up to 3.0.7 and breathing new life into the application, the brainchild of journalist and blogger Paul Bradshaw.
 
 2011 Lovefresh 
 
