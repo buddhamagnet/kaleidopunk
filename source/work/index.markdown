@@ -44,7 +44,9 @@ This is a team running a finely tuned agile methodology with code reviews, unit 
 Worked as a freelance Drupal developer on a range of international media sites - mainly build and maintenance of custom modules running on Pressflow.
 
 [Cartoon Network](http://cartoonnetwork.co.uk)
+
 [Boomerang](http://boomerangtv.co.uk)
+
 [Adult Swim](http://adultswim.com) (where I encountered the singular Aqua Teen Hunger Force).
 
 2010 [Comic Relief](http://comicrelief.co.uk)
@@ -52,7 +54,9 @@ Worked as a freelance Drupal developer on a range of international media sites -
 Worked as a freelance developer on the Sport Relief 2010 campaign from start to finish, culminating with the live event itself (providing support from BT Tower). Built custom modules for the Drupal site and was instrumental in rebuilding the web services layer which provided a back end for the donation system and the childrens and project maps sections (Flash front end, back end AMF).
 
 [Sport Relief 2010](http://sportrelief.com)
+
 [Comic Relief](http://comicrelief.com)
+
 [Red Nose Day](http://rednoseday.co.uk)
 
 PERSONAL PROJECTS
