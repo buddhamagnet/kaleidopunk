@@ -7,8 +7,6 @@ sharing: false
 footer: true
 ---
 
-WORK
-
 Here's a list of the things I have worked on or built recently:
 
 RUBY
