@@ -7,6 +7,15 @@ sharing: false
 footer: true
 ---
 
+Here's the stuff I know:
+
+LANGUAGES: Ruby (1.8.7, 1.9.2), PHP, JavaScript (inc Jquery)
+FRAMEWORKS: Rails (2, 3, 3,1), Sinatra, Drupal (6, 7, Pressflow)
+VERSION CONTROL: git, svn, bzr
+DATABASE: SQL, mySQL, Mongo
+FRONT END: XHTML/HTML, HTML5, CSS, SASS
+COMMAND LINE: bash, zsh, tmux, CentOS, OSX
+
 Here's a list of the things I have worked on or built recently:
 
 RUBY
