@@ -14,21 +14,22 @@ RUBY
 
 2012 [Rstatus](http://rstat.us)
 
-[Contributing back](https://github.com/hotsh/rstat.us/pull/516) to another decentralised social web initiative.
+[Contributing back](https://github.com/hotsh/rstat.us/pull/516) to this decentralised microblogging platform. Pulling upstream changes
+and pushing to my own hub [here](http://rstatted.heroku.com).
 
 2011-2012 [Unbound](http://unbound.co.uk)
 
-Freelancing on Rails 3 build for UK startup revolving around online patronage of published and unpublished writers. The site has generated a fair amount of press.
+Freelancing on Rails 3 build for UK startup revolving around online patronage of published and unpublished writers. The site has generated a large amount of press.
 
-I have been involved in all aspects of the project from refactoring the original code provided by an agency, upgrading the application to Rails 3.1, introducing testing, advising on version control methodologies and development workflow, as well as day-to-day coding.
+I have been involved in all aspects of the project from refactoring the original code provided by an agency, upgrading the application to Rails 3.1, introducing testing, advising on version control methodologies and development workflow, as well as day-to-day feature delivery.
 
 2011-2012 [Diaspora](http://joindiaspora.org)
 
-Contributing back to this open source project when I can and now also [hosting a pod](http://diasporauk.com).
+Contributing to this open source project when I can and now also [hosting a pod](http://diasporauk.com).
 
 2011 [Thimbl](http://thimbl.net)
 
-Contributing to this decentralized social net experiment - my name in the credits [here](https://vimeo.com/18749871)
+Contributed to this decentralized social net experiment, one of many from the Berlin collective [Telekommunisten](http://telekommunisten.net) - my name in the credits [here](https://vimeo.com/18749871).
 
 2011 [Lovefresh](http:/lovefre.sh) 
 
@@ -39,7 +40,7 @@ Technology: built in Rails 2.3.8 (upgrading to 3 soon) using TDD/BDD (Rspec/Webr
 DRUPAL
 ------
 
-2011 [The Economist](http://www.economist.com)
+2011-2012 [The Economist](http://www.economist.com)
 
 Current daytime role working as part of the London team for Economist Online. Larger distributed team includes a development unit from Hungary based in the London office and teams in New York and Austin Texas.
 
