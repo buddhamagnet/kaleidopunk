@@ -7,23 +7,10 @@ sharing: false
 footer: true
 ---
 
-Here's the stuff I know:
-
-LANGUAGES: Ruby (1.8.7, 1.9.2), PHP, JavaScript (inc Jquery)
-
-FRAMEWORKS: Rails (2, 3, 3,1), Sinatra, Drupal (6, 7, Pressflow)
-
-VERSION CONTROL: git, svn, bzr
-
-DATABASE: SQL, mySQL, Mongo
-
-FRONT END: XHTML/HTML, HTML5, CSS, SASS
-
-COMMAND LINE: bash, zsh, tmux, CentOS, OSX
-
 Here's a list of the things I have worked on or built recently:
 
 RUBY
+----
 
 2012 [Rstatus](http://rstat.us)
 
@@ -50,6 +37,7 @@ Freelanced for a UK startup specialising in linking producers of fresh local foo
 Technology: built in Rails 2.3.8 (upgrading to 3 soon) using TDD/BDD (Rspec/Webrat) and HAML on the templating side. Full HTML5 interface including audio elements.
 
 DRUPAL
+------
 
 2011 [The Economist](http://www.economist.com)
 
