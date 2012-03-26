@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Work"
-date: 2011-12-10 11:35
 comments: false
 sharing: false
 footer: true
