@@ -70,9 +70,4 @@ Worked as a freelance developer on the Sport Relief 2010 campaign from start to 
 
 Senior developer in an agile team for a leading UK SEM company. Involved in rebuild of entire company platform from a stew of table-based magazine subscription sites without version control or proper development methodologies into a new platform incorporating sites built using MVC (specifically Codeigniter), version control (svn with branching and merging), agile methodology (Scrum), code reviews and pair programming.
 
-Skype
-BBC History
-BBC Music
-Moneywise
-The Economist
-National Geographic
+Jellyfish boasts many high profile clients in its portfolio, including Skype, BBC, The Economist, National Geographic and Dennis Publishing.
