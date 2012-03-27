@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Woosmoke"
+title: "Woodsmoke"
 date: 2011-03-27 23:22
 comments: true
 categories: [word]
