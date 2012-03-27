@@ -19,4 +19,4 @@ inspire me to emit words.
 I lost track of time. I sat around a fire with grown men who sought an extra dimension and witnessed the bullshit evaporate with rapid
 emotional effect. I slept under the stars, stunned with wonder. I resorted to nature for light, heat, resource. I remembered an unspoken
 language. And, above all, I felt my way blind towards the tail end of a tribal magic long since forgotten, buried beneath elevators and 
-streets.
+streets...
