@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Be quick"
+date: 2012-05-08 17:03
+comments: true
+categories: [word]
+---
+
+Brian Eno: “I’m always prone to do things very quickly, which has distinct advantages — you leave all the mistakes in, and the mistakes always become interesting. The Velvet Underground, for example, are the epitome of mistake-filled music, and it makes the music very subtle and beautiful.”
