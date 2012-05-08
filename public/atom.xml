@@ -4,13 +4,22 @@
   <title>kaleidopunk</title>
   <link href="http://kaleidopunk.com/atom.xml" rel="self"/>
   <link href="http://kaleidopunk.com/"/>
-  <updated>2012-03-28T21:25:08+01:00</updated>
+  <updated>2012-05-08T17:05:17+01:00</updated>
   <id>http://kaleidopunk.com/</id>
   <author>
     <name>buddhamagnet</name>
     
   </author>
 
+  
+  <entry>
+    <title>Be Quick</title>
+    <link href="http://kaleidopunk.com/blog/2012/05/08/be-quick/"/>
+    <updated>2012-05-08T00:00:00+01:00</updated>
+    <id>http://kaleidopunk.com/blog/2012/05/08/be-quick</id>
+    <content type="html">
+</content>
+  </entry>
   
   <entry>
     <title>Woodsmoke</title>
