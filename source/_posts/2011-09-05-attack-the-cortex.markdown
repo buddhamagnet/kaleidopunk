@@ -21,6 +21,4 @@ This also means that contributions for now are handled in a rather geeky way. If
 contribute, fork the blog on [github](https://github.com/buddhamagnet/kaleidopunk) and issue a 
 pull request. Trust me, git is worth knowing for reasons far beyond geek. It gives your content legs.
 
-So this is my blog in it's fourth or fifth mutation. A kaleidopunk manifesto. A place for me
-to explore books, words, hacker culture, stories and sounds. I promise I'll stop banging on about 
-the technology for now.
+So this is my blog in it's fourth or fifth mutation. A kaleidopunk manifesto.
