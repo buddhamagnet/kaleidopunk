@@ -4,13 +4,26 @@
   <title>kaleidopunk</title>
   <link href="http://kaleidopunk.com/atom.xml" rel="self"/>
   <link href="http://kaleidopunk.com/"/>
-  <updated>2012-06-13T17:40:59+01:00</updated>
+  <updated>2012-06-15T10:41:12+01:00</updated>
   <id>http://kaleidopunk.com/</id>
   <author>
     <name>buddhamagnet</name>
     
   </author>
 
+  
+  <entry>
+    <title>Morbid</title>
+    <link href="http://kaleidopunk.com/blog/2012/06/15/new-post/"/>
+    <updated>2012-06-15T10:40:00+01:00</updated>
+    <id>http://kaleidopunk.com/blog/2012/06/15/new-post</id>
+    <content type="html">&lt;div class=&quot;ab-player&quot; data-boourl=&quot;http://audioboo.fm/boos/842314-morbid/embed&quot;&gt;&lt;a href=&quot;http://audioboo.fm/boos/842314-morbid&quot;&gt;listen to &amp;#x2018;morbid?&amp;#x2019; on Audioboo&lt;/a&gt;&lt;/div&gt;
+
+
+&lt;script type=&quot;text/javascript&quot;&gt;(function() { var po = document.createElement(&quot;script&quot;); po.type = &quot;text/javascript&quot;; po.async = true; po.src = &quot;http://cdn.avanti247.com/cdn.static0.audioboo.fm/assets/embed.js&quot;; var s = document.getElementsByTagName(&quot;script&quot;)[0]; s.parentNode.insertBefore(po, s); })();&lt;/script&gt;
+
+</content>
+  </entry>
   
   <entry>
     <title>Be quick</title>
